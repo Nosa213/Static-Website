@@ -16,6 +16,6 @@ We have **two uploaded pictures** in our bucket
 
 <img width="1259" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/25824a5d-84ad-4878-bd0a-2b2377742429">
 
-**Next** click on Destination link
+**Next** click on the Destination link
 
 <img width="711" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/f59af911-18e0-4641-a08e-2dce44e09aa9">

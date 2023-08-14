@@ -37,4 +37,39 @@ Go to **properties** scroll down to **Static Website hosting** click on **edit**
 
 <img width="459" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/b8dd8576-dd7b-4798-bacd-3de2fffc16ca">
 
+## Make our bucket publicly accessible
+
+Click on **permissions** and **edit**
+
+<img width="1231" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/01b1cf96-b75c-4eb8-a747-b43b4e8a353b">
+
+**Uncheck** the box and **Save changes**
+
+<img width="573" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/c471b23e-a319-4414-bf75-5baf589f7cac">
+
+Next, we need to make all objects in our bucket **publicly accessible**
+
+First, click on **permissions**, scroll down click on **object ownership** and **enable ACL**
+
+<img width="670" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/966a18e0-9d66-47e3-97ac-5ddc8b4d737d">
+
+Second, go back and **select** objects in the bucket, click on **Actions**  scroll down and select **Make public using ACL**
+
+<img width="1250" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/0dea1a04-d573-4777-9b41-fc8d56334613">
+
+Click on **Make public**
+
+<img width="595" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/2fff3a13-c680-4280-bc4d-8144b097205d">
+
+Finally, **refresh** the link. 
+
+<img width="1004" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/dda9c19e-3df5-412d-8a18-3852bcecddd5">
+
+Second static webpage
+
+<img width="1225" alt="image" src="https://github.com/Nosa213/Static-Website/assets/125190958/0f4d9590-9ae8-4217-b491-6bb5b9aa711d">
+
+**Congratulations** you were able to create a static website.
+
+
 
